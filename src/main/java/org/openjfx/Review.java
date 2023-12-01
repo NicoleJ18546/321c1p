@@ -14,6 +14,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 //this class is for the review screen of the applicaiton
+//making edit for ci pipeline
 public class Review {
     
     
